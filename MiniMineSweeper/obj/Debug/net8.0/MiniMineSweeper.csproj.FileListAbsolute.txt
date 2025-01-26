@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\bin\Debug\net8.0\MiniMineSweeper.exe
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\bin\Debug\net8.0\MiniMineSweeper.deps.json
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\bin\Debug\net8.0\MiniMineSweeper.runtimeconfig.json
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\bin\Debug\net8.0\MiniMineSweeper.dll
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\bin\Debug\net8.0\MiniMineSweeper.pdb
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\obj\Debug\net8.0\MiniMineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\obj\Debug\net8.0\MiniMineSweeper.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\obj\Debug\net8.0\MiniMineSweeper.AssemblyInfo.cs
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\obj\Debug\net8.0\MiniMineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\obj\Debug\net8.0\MiniMineSweeper.dll
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\obj\Debug\net8.0\refint\MiniMineSweeper.dll
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\obj\Debug\net8.0\MiniMineSweeper.pdb
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\obj\Debug\net8.0\MiniMineSweeper.genruntimeconfig.cache
+C:\Users\Hp\source\repos\MiniMineSweeper\MiniMineSweeper\obj\Debug\net8.0\ref\MiniMineSweeper.dll
